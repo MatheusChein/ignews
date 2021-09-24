@@ -8,6 +8,7 @@
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/MatheusChein/ignews?color=56BEB8">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/MatheusChein/ignews?color=56BEB8">
+  
   <img alt="License" src="https://img.shields.io/github/license/MatheusChein/ignews?color=56BEB8">
 
 </p>
