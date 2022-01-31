@@ -69,7 +69,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 $ git clone https://github.com/MatheusChein/ignews.git
 
 # Access
-$ cd letmeask-React
+$ cd ignews
 
 # Install dependencies
 $ yarn
